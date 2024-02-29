@@ -160,18 +160,9 @@ You can contact me to get the result.
 ## Envir Install
 
 ```
-mamba create -n sc_py3 -y pytorch torchvision torchaudio cpuonly -c pytorch -c nvidia
-mamba install -y scvi-tools -c conda-forge
-pip install scib scib-metrics bbknn
-mamba install -y scglue harmonypy scanorama 
-mamba install -y r-base anndata2ri r-seurat scrublet 
-```
-
-```
 mamba create -n sc_py3 python=3.8 python-igraph leidenalg ipykernel -y
 pip install 'scanpy>1.8.1'
 mamba install -y r-base r-seurat
-
 ```
 
 
