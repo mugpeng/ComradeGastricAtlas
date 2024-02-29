@@ -86,6 +86,14 @@ Because It's more efficient to run Python to process the large scale single cell
 
 
 
+## Little advice for novice
+
+Use data: [GEO Accession viewer (nih.gov)](https://ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206785) From [Parallel single-cell and bulk transcriptome analyses reveal key features of the gastric tumor microenvironment - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/36550535/) with annotated 111,140 cells
+
+![output](图片/output-1709187045230-1.png)
+
+And imitate [Integrated Analysis Highlights the Immunosuppressive Role of TREM2+ Macrophages in Hepatocellular Carcinoma - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/35359989/) try to warm you up.
+
 
 
 
